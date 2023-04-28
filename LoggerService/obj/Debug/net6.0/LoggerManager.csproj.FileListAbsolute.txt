@@ -1,0 +1,66 @@
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\bin\Debug\net6.0\LoggerManager.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\bin\Debug\net6.0\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\bin\Debug\net6.0\LoggerManager.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CopyComplete
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\refint\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\LoggerManager.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\LoggerService\obj\Debug\net6.0\ref\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CopyComplete
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\refint\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\ref\LoggerManager.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.deps.json
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\LoggerManager.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CopyComplete
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\refint\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\LoggerManager.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\LoggerService\obj\Debug\net6.0\ref\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\LoggerManager.deps.json
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\LoggerManager.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.csproj.CopyComplete
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\refint\LoggerManager.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\LoggerManager.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\LoggerService\obj\Debug\net6.0\ref\LoggerManager.dll

@@ -15,6 +15,6 @@ namespace Entities
 
         }
 
-        public DbSet<Member>? Members { get; set; }
+        public DbSet<Student>? Students { get; set; }
     }
 }

@@ -1,0 +1,56 @@
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Repository.EntitiesRepositories
 {
-    public class MembersRepository : RepositoryBase<Member>, IMembersRepository
+    public class MembersRepository : RepositoryBase<Student>, IMembersRepository
     {
         public MembersRepository(RepositoryContext context) : base(context)
         {

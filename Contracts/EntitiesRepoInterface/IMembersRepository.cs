@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Contracts.EntitiesRepoInterface
 {
-    public interface IMembersRepository : IRepositoryBase<Member>
+    public interface IMembersRepository : IRepositoryBase<Student>
     {
     }
 }

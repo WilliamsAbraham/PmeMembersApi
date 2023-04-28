@@ -1,0 +1,57 @@
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\ClicknFly\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\willi\OneDrive\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\PmeMembersApi\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\H P\Desktop\Projects\StudentsApi\Contracts\obj\Debug\net6.0\ref\Contracts.dll
